@@ -1,13 +1,16 @@
 # 🔐 AlphaMatrix Cipher (AMC)
 
 ## 👨‍🎓 Submitted By:
-- **Name:** YOUR NAME  
-- **ID:** YOUR ID  
-- **Department:** YOUR DEPT  
+- **Name:** Al Rafatul Hasib  
+- **ID:** 2102050 
+- **Department:** Computer Science and Engineering 
 
+## 👨‍🎓 Submitted To:
+- **Name:** Pankaj Bhowmik (Lecturer) 
+  - **Department:** Computer Science and Engineering
+  
 ## 📘 Course Info:
-- **Course Title:** Cryptography & Security  
-- **Instructor:** YOUR INSTRUCTOR NAME  
+- **Course Title:** Mathmatical Analysis for Computer Science  
 
 ---
 
@@ -234,5 +237,3 @@ alpha-matrix-cipher/
 
 ---
 
-> 🔐 *AlphaMatrix Cipher - Secure, Structured, and Simple.*  
-> Happy Encrypting!
